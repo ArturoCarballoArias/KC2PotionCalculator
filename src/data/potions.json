@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Aesop",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/potion_aesop_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "Comfrey",
+                "required": 2
+            },
+            {
+                "name": "Belladona",
+                "required": 1
+            },
+            {
+                "name": "Boar's Tusk",
+                "required": 1
+            }
+        ]
+    }
+]
