@@ -68,6 +68,15 @@ function App() {
     );
   };
 
+  // New handler for direct input changes.
+  const updateCount = (index: number, newCount: number) => {
+    setIngredients((prevIngredients) =>
+      prevIngredients.map((ingredient, i) =>
+        i === index ? { ...ingredient, initialCount: newCount } : ingredient
+      )
+    );
+  };
+
   // Create a lookup object for available ingredient counts
   const availableIngredients: Record<string, number> = ingredients.reduce(
     (acc, ingredient) => {
@@ -89,8 +98,9 @@ function App() {
   });
 
   return (
-    <div className="min-h-screen min-w-screen bg-gray-100 p-4">
-      <h1 className="text-3xl font-bold text-center mb-4">Ingredients</h1>
+    <div className="min-h-screen min-w-screen bg-gray-400 p-4">
+      <h1 className="text-6xl font-bold text-center text-black mb-4"> KC2 Potions Calculator</h1>
+      <h1 className="text-3xl font-bold text-center text-black mb-4">Ingredients</h1>
       <div className="flex flex-wrap justify-center gap-4 mb-8">
         {ingredients.map((ingredient, index) => (
           <IngredientCard
@@ -100,6 +110,7 @@ function App() {
             count={ingredient.initialCount}
             onIncrement={() => incrementCount(index)}
             onDecrement={() => decrementCount(index)}
+            onChange={(newCount) => updateCount(index, newCount)}
           />
         ))}
       </div>

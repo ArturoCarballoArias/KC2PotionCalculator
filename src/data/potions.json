@@ -16,5 +16,405 @@
                 "required": 1
             }
         ]
+    },
+    {
+        "name": "Aqua Vitalis",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/potion_aquavitalis_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "Dandelion",
+                "required": 2
+            },
+            {
+                "name": "Marigold",
+                "required": 1
+            }
+        ]
+    },
+    {
+        "name": "Artemisia",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/potion_artemisia_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "Sage",
+                "required": 1
+            },
+            {
+                "name": "Wormwood",
+                "required": 2
+            }
+        ]
+    },
+    {
+        "name": "Bane Poison",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/bane_poison_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "Belladona",
+                "required": 2
+            },
+            {
+                "name": "Wormwood",
+                "required": 1
+            },
+            {
+                "name": "Amanita Muscaria",
+                "required": 1
+            }
+        ]
+    },
+    {
+        "name": "Bowman's Brew",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/potion_bowmans_brew_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "Eyebright",
+                "required": 2
+            },
+            {
+                "name": "St. John's Wort",
+                "required": 1
+            }
+        ]
+    },
+    {
+        "name": "Buck's Blood",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/potion_bucksblood_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "St. John's Wort",
+                "required": 1
+            },
+            {
+                "name": "Comfrey",
+                "required": 1
+            },
+            {
+                "name": "Dandelion",
+                "required": 1
+            }
+        ]
+    },
+    {
+        "name": "Chamomile Brew",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/potion_chamomile_decoction_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "Chamomile",
+                "required": 2
+            },
+            {
+                "name": "Sage",
+                "required": 1
+            }
+        ]
+    },
+    {
+        "name": "Cockerel",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/potion_cockerel_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "Mint",
+                "required": 2
+            },
+            {
+                "name": "Valerian",
+                "required": 1
+            }
+        ]
+    },
+    {
+        "name": "Digestive Potion",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/potion_digestive__icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "Thistle",
+                "required": 2
+            },
+            {
+                "name": "Mint",
+                "required": 1
+            },
+            {
+                "name": "Charcoal",
+                "required": 1
+            }
+        ]
+    },
+    {
+        "name": "Dollmaker Poison",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/dollmaker__poison_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "Herb Paris",
+                "required": 2
+            },
+            {
+                "name": "Valerian",
+                "required": 1
+            }
+        ]
+    },
+    {
+        "name": "Embrocation",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/potion_embrocation_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "Poppy",
+                "required": 1
+            },
+            {
+                "name": "Valerian",
+                "required": 1
+            },
+            {
+                "name": "Eyebright",
+                "required": 1
+            },
+            {
+                "name": "Boar's Tusk",
+                "required": 1
+            }
+        ]
+    },
+    {
+        "name": "Fever Tonicum",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/potion_fevertonic_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "Feverfew",
+                "required": 3
+            },
+            {
+                "name": "Ginger",
+                "required": 2
+            },
+            {
+                "name": "Elderberry Leaves",
+                "required": 1
+            }
+        ]
+    },
+    {
+        "name": "Fox",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/potion_fox_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "St. John's Wort",
+                "required": 1
+            },
+            {
+                "name": "Nettle",
+                "required": 1
+            },
+            {
+                "name": "Charcoal",
+                "required": 1
+            },
+            {
+                "name": "Belladona",
+                "required": 1
+            }
+        ]
+    },
+    {
+        "name": "Hair o' the Dog",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/potion_hair_o_dog_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "Sage",
+                "required": 1
+            },
+            {
+                "name": "St. John's Wort",
+                "required": 1
+            },
+            {
+                "name": "Mint",
+                "required": 1
+            }
+        ]
+    },
+    {
+        "name": "Lethean Water",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/potion_lethean_water_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "Wormwood",
+                "required": 2
+            },
+            {
+                "name": "Belladona",
+                "required": 1
+            },
+            {
+                "name": "Henbane",
+                "required": 1
+            }
+        ]
+    },
+    {
+        "name": "Lion",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/perfume_lion_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "Sage",
+                "required": 2
+            },
+            {
+                "name": "Mint",
+                "required": 2
+            }
+        ]
+    },
+    {
+        "name": "Lullaby Poison",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/lullaby_poison_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "Poppy",
+                "required": 1
+            },
+            {
+                "name": "Thistle",
+                "required": 1
+            },
+            {
+                "name": "Herb Paris",
+                "required": 1
+            }
+        ]
+    },
+    {
+        "name": "Marigold Decoction",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/potion_marigold_decoction_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "Nettle",
+                "required": 1
+            },
+            {
+                "name": "Marigold",
+                "required": 2
+            }
+        ]
+    },
+    {
+        "name": "Mintha",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/perfume_mintha_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "Dandelion",
+                "required": 3
+            },
+            {
+                "name": "Mint",
+                "required": 1
+            },
+            {
+                "name": "Marigold",
+                "required": 1
+            }
+        ]
+    },
+    {
+        "name": "Moonshine",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/potion_moonshine_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "Wormwood",
+                "required": 2
+            },
+            {
+                "name": "Mint",
+                "required": 2
+            }
+        ]
+    },
+    {
+        "name": "Nighthawk",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/potion_nighthawk_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "Eyebright",
+                "required": 2
+            },
+            {
+                "name": "Belladona",
+                "required": 1
+            },
+            {
+                "name": "Chamomile",
+                "required": 1
+            }
+        ]
+    },
+    {
+        "name": "Painkiller Brew",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/potion_painkiller_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "Poppy",
+                "required": 3
+            },
+            {
+                "name": "Marigold",
+                "required": 1
+            },
+            {
+                "name": "Comfrey",
+                "required": 1
+            }
+        ]
+    },
+    {
+        "name": "Quickfinger Potion",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/potion_quickfinger_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "Cobweb",
+                "required": 1
+            },
+            {
+                "name": "Eyebright",
+                "required": 2
+            },
+            {
+                "name": "Valerian",
+                "required": 2
+            }
+        ]
+    },
+    {
+        "name": "Saviour Schnapps",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/potion_saviourschnapps_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "Nettle",
+                "required": 1
+            },
+            {
+                "name": "Belladona",
+                "required": 2
+            }
+        ]
+    },
+    {
+        "name": "Soap",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/soap_icon-kcd2-wiki-guide-64px.png",
+        "ingredients": [
+            {
+                "name": "Thistle",
+                "required": 2
+            },
+            {
+                "name": "Dandelion",
+                "required": 1
+            },
+            {
+                "name": "Charcoal",
+                "required": 1
+            }
+        ]
     }
 ]

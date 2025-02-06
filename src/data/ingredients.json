@@ -55,7 +55,7 @@
         "initialCount": 0
     },
     {
-        "name": "Marigold",
+        "name": "Mint",
         "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/mint-alchemy-item-kcd2-wiki-guide.png",
         "initialCount": 0
     },
@@ -97,6 +97,21 @@
     {
         "name": "Boar's Tusk",
         "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/boars-tusk-blacksmithing-item-kcd2-wiki-guide.png",
+        "initialCount": 0
+    },
+    {
+        "name": "Amanita Muscaria",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/amanita-muscaria-blacksmithing-item-kcd2-wiki-guide.png",
+        "initialCount": 0
+    },
+    {
+        "name": "Charcoal",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/charcoal-blacksmithing-item-kcd2-wiki-guide.png",
+        "initialCount": 0
+    },
+    {
+        "name": "Cobweb",
+        "image": "https://kingdomcomedeliverance2.wiki.fextralife.com/file/Kingdom-Come-Deliverance-2/cobweb-blacksmithing-item-kcd2-wiki-guide.png",
         "initialCount": 0
     }
 ]

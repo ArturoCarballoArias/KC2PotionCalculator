@@ -12,7 +12,7 @@ interface PotionCardProps {
 
 function PotionCard({ name, image, count, ingredients }: PotionCardProps) {
   return (
-    <div className="bg-white text-black rounded-lg shadow p-4 flex flex-col items-center w-60">
+    <div className="bg-gray-300 text-black rounded-lg shadow p-4 flex flex-col items-center w-60">
       <img
         src={image}
         alt={name}
