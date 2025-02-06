@@ -98,7 +98,7 @@ function App() {
   });
 
   return (
-    <div className="min-h-screen min-w-screen bg-gray-400 p-4">
+    <div className="min-h-screen w-full bg-gray-400 p-4">
       <h1 className="text-6xl font-bold text-center text-black mb-4"> KC2 Potions Calculator</h1>
       <h1 className="text-3xl font-bold text-center text-black mb-4">Ingredients</h1>
       <div className="flex flex-wrap justify-center gap-4 mb-8">
